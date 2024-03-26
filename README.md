@@ -12,11 +12,11 @@
 
 <img width="1436" alt="Screenshot 2024-03-27 at 12 24 58 AM" src="https://github.com/chetanprakash786/Blog_Baba_Web/assets/139262091/8b249550-db84-4fe2-876b-2b3602ccbecb">
 
-#This page is to create new Blogs
+# This page is to create new Blogs
 
 <img width="1432" alt="Screenshot 2024-03-27 at 12 25 07 AM" src="https://github.com/chetanprakash786/Blog_Baba_Web/assets/139262091/530e8d4c-ccc1-42e1-9885-f25ac81c3237">
 
-#this page shows a single blog that I handled on server using the id of each Blog item
+# this page shows a single blog that I handled on server using the id of each Blog item
 
 <img width="1439" alt="Screenshot 2024-03-27 at 12 25 19 AM" src="https://github.com/chetanprakash786/Blog_Baba_Web/assets/139262091/05246ed1-566a-4405-afcb-78662f890cdf">
 
